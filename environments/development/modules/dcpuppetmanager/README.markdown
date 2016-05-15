@@ -1,0 +1,3 @@
+# puppetmanager #
+
+This is the puppetmanager module. It provides...
